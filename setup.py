@@ -1,3 +1,4 @@
+# Read CAREFULLY 
 #! /usr/bin/env python
 #
 # Copyright (C) 2012-2018 Michael Waskom
